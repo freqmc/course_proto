@@ -1,0 +1,6 @@
+2024-10-30T14:30:27Z: cpu_load=80, memory_usage=23, disk_space=67, Средний уровень угрозы!
+2024-10-30T14:32:09Z: cpu_load=12, memory_usage=21, disk_space=2, Высокий уровень угрозы!
+2024-10-30T14:32:25Z: cpu_load=12, memory_usage=21, disk_space=90, Средний уровень угрозы!
+2024-10-30T14:32:32Z: cpu_load=100, memory_usage=100, disk_space=100, Все значения в норме.
+2024-10-30T14:33:21Z: cpu_load=32, memory_usage=23, disk_space=3, Высокий уровень угрозы!
+2024-10-30T14:33:31Z: cpu_load=100, memory_usage=100, disk_space=100, Все значения в норме.
